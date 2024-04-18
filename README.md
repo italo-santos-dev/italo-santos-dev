@@ -6,7 +6,6 @@
 - :telescope:  But I'm always open to discovering new things
 - :rocket:  Keep learning continuous and practical
 
-<h2>Languages and Tools:</h2>
 <p align="center">
     <br>
     <a href="https://docs.oracle.com/en/java/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
@@ -25,4 +24,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
-
+<div> 
+  <a href="https://youtube.com/@ItaloDevInvest?si=jkcsV-Y5h4vtvlVG" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/italosantsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/406812845221609472" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:isantos.worldtec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/italo-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
